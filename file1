@@ -6,4 +6,6 @@ feature content
 feature conflict
 
 master conflict
+remote master conflict
+
 
